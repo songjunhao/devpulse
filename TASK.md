@@ -1,151 +1,78 @@
-# TASK: DevPulse Daily — MVP 开发
+# DevPulse Daily — UI/UX 美化任务
 
-## 项目背景
-
-DevPulse Daily 是一个面向中国独立开发者/出海创业者的每日 AI 商机情报站。
-类似 BuilderPulse（https://github.com/BuilderPulse/BuilderPulse）但做了差异化。
+## 目标
+美化 DevPulse Daily 网站（中文 AI 商机情报站），使用 **UI-UX-Pro-Max Skill** 的设计建议，将当前的简单深色主题升级为专业、现代、有视觉冲击力的界面。
 
 ## 当前状态
+- 技术栈：Next.js 15 (App Router) + Tailwind CSS 4 + TypeScript
+- 当前主题：简单的 `bg-zinc-950` + `text-zinc-200` + `text-amber-400` 强调色
+- 当前页面很朴素，缺少视觉层次感、动画、卡片效果
 
-- Next.js 15 项目已初始化在 ~/workspace/devpulse（App Router + Tailwind + TypeScript）
-- 已有 PRD 文档在 ~/workspace/devpulse-prd/PRD.md（请阅读参考）
-
-## 需要完成的任务
-
-### 1. 首页 (`src/app/page.tsx`)
-
-设计一个简洁专业的首页，包含：
-- 顶部 Hero 区域：项目名 "DevPulse Daily"、Slogan "今天该做什么赚钱？"、副标题说明
-- 今日报告卡片（高亮最新一篇）
-- 最近 7 天报告列表（日期 + 标题 + 一句话摘要）
-- 底部：数据源说明（Hacker News · GitHub · Product Hunt · HuggingFace · Google Trends · Reddit）
-
-设计风格：
-- 深色主题（暗灰/黑色背景）
-- 科技感但不花哨
-- 参考 TechCrunch / The Verge 的内容站风格
-- 移动端友好
-
-### 2. 日报详情页 (`src/app/daily/[date]/page.tsx`)
-
-- 从 `content/daily/` 目录读取 Markdown 文件
-- 用 markdown 渲染（推荐 next-mdx-remote 或 react-markdown + remark-gfm）
-- 支持代码块、表格、引用块、链接
-- 顶部有返回首页导航
-- 底部有"上一篇/下一篇"导航
-- 生成静态页面（SSG，generateStaticParams）
-- 好看的排版，中文友好
-
-### 3. 日报内容 (`content/daily/2026-04-16.md`)
-
-手动创建第一篇日报。内容来源参考 ~/workspace/BuilderPulse-workspace/zh/2026/2026-04-16.md，
-但需要：
-- 用自己的语言重新组织，不要直接复制
-- 增加"中国出海者专区"部分（可以编几个有价值的出海相关洞察）
-- 语气：专业但不无聊，像朋友聊天
-- 每篇 3000-5000 字中文
-
-日报 Markdown 结构模板：
-
-```
-# DevPulse 日报 — YYYY-MM-DD
-
-> **今日三大信号：**
-> 1. ...
-> 2. ...
-> 3. ...
-
-数据源说明。更新于 XX:XX（北京时间）。
-
----
-
-## 🔍 发现机会
-
-### 1. 今日有哪些独立开发者发布新产品？
-（产品名 + 创始人 + 数据 + 可借鉴点）
-
-### 2. 哪些搜索词异常飙升？
-（关键词 + 涨幅 + SEO 机会）
-
-### 3. GitHub 上哪些高增长项目没有商业化？
-（项目 + star + 变现路径）
-
-### 4. 开发者在抱怨什么？
-（被吐槽产品 + 替代机会）
-
----
-
-## 📡 技术雷达
-
-### 5. 大厂产品变动
-### 6. 增长最快的开发者工具
-### 7. HuggingFace 热门模型
-### 8. Show HN 技术栈
-
----
-
-## 📈 趋势判断
-
-### 9. 关键词热度变化
-### 10. VC / YC 关注方向
-### 11. 新词雷达
-
----
-
-## ⚡ 今日行动
-
-### 🏆 最佳 2 小时 Build
-### 💰 商业模式参考
-### 🤔 最反直觉发现
-
----
-
-## 🇨🇳 出海者专区
-
-### 15. 出海圈热门讨论
-### 16. 可复制的海外模式
-
----
-
-*— DevPulse Daily · 每日 AI 商机情报*
+## 设计方向
+使用 UI-UX-Pro-Max Skill 查询设计建议：
+```bash
+python3 ~/.claude/skills/ui-ux-pro-max/scripts/search.py "dark mode news blog SaaS" --domain style -n 3
+python3 ~/.claude/skills/ui-ux-pro-max/scripts/search.py "news blog" --domain product -n 3
+python3 ~/.claude/skills/ui-ux-pro-max/scripts/search.py "dark mode tech" --domain color -n 3
+python3 ~/.claude/skills/ui-ux-pro-max/scripts/search.py "tech blog chinese" --domain typography -n 3
+python3 ~/.claude/skills/ui-ux-pro-max/scripts/search.py "SaaS landing page" --domain landing -n 3
+python3 ~/.claude/skills/ui-ux-pro-max/scripts/search.py "nextjs" --stack nextjs
 ```
 
-### 4. 布局和全局样式
+## 需要美化的文件
 
-- `src/app/layout.tsx`: 全局布局，包含导航栏（Logo + 首页 + 归档 + RSS 图标）
-- 导航栏固定顶部，半透明背景
-- 字体：系统字体栈，中文用系统默认即可
-- 全局深色主题配色（Tailwind dark mode）
+### 1. `app/globals.css` — 全局样式
+当前只有 3 行。需要：
+- 自定义 CSS 变量（设计 token）
+- 更好的 typography 样式（中文优化）
+- 滚动条样式
+- 平滑过渡动画
+- Prose/typography 插件的自定义样式
 
-### 5. 工具函数
+### 2. `app/layout.tsx` — 全局布局
+- 升级导航栏：毛玻璃效果（backdrop-blur）、更好的导航项样式
+- 添加渐变分割线
+- Footer 升级
 
-- `src/lib/markdown.ts`: 读取和解析 content/daily/ 下的 Markdown 文件
-  - `getAllDailySlugs()`: 返回所有日期 slug 列表
-  - `getDailyContent(date)`: 读取指定日期的 Markdown 内容和 frontmatter
-- `src/lib/types.ts`: TypeScript 类型定义
+### 3. `app/page.tsx` — 首页
+当前是简单的卡片列表。需要：
+- Hero 区域：大标题 + 动态渐变文字效果 + 副标题 + 订阅提示
+- 今日报告卡片：玻璃态（glassmorphism）效果，突出显示
+- 历史报告列表：时间线样式或带日期标签的卡片
+- 添加信号标签（signals tags）展示
+- 微交互动画（hover 效果）
 
-### 6. 其他
+### 4. `app/daily/[date]/page.tsx` + `DailyContent.tsx` — 日报详情页
+- 添加面包屑导航
+- 更好的文章排版：行距、段落间距、引用块样式
+- 代码块样式优化
+- 表格样式优化
+- 前后篇导航优化
+- 添加文章元信息（日期、字数、阅读时间）
 
-- `public/robots.txt`: 允许所有爬虫
-- 不需要搜索、标签、趋势页（这些是后续 Phase）
-- 确保 `npm run build` 能成功
-- 响应式设计，移动端优先
+## 设计约束
+- **必须保持**：静态导出（`output: "export"`）、Next.js 15 App Router
+- **配色**：深色主题为主，可用渐变和发光效果增强
+- **不用**：emoji 作为图标（用 SVG 或 Lucide Icons）
+- **必须兼容**：移动端响应式
+- **中文排版**：注意中文字符的行距和字体渲染
+- **性能**：纯 CSS 动画，不引入重型 JS 动画库
 
-## 技术要求
+## 新增依赖（可选）
+如果需要图标：
+```bash
+npm install lucide-react
+```
 
-- Next.js 15 App Router (已初始化)
-- Tailwind CSS v4 (已配置)
-- TypeScript
-- react-markdown + remark-gfm + rehype-raw 用于 Markdown 渲染
-- SSG (generateStaticParams) 用于日报页
-- 不要用 MDX，用纯 Markdown
-- 不要引入任何 UI 组件库（自己写 Tailwind 样式）
-- 内容放在 `content/daily/` 目录（项目根目录下，不在 src 里）
+## 验证
+完成后执行：
+```bash
+npm run build
+```
+确保构建成功，所有页面正常生成。
 
-## 重要约束
-
-- 中文内容，中文 UI
-- 深色主题
-- 移动端优先
-- 快速加载（SSG 静态页面）
-- npm run build 必须通过
+## 不要修改
+- `lib/markdown.ts` — 内容读取逻辑
+- `content/daily/*.md` — 日报内容文件
+- `next.config.ts` — 配置文件
+- `scripts/` — 自动化脚本
