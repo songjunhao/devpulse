@@ -52,31 +52,37 @@ def _fetch_hn_item(sid):
         return None
 
 
-def collect_hn(max_stories=20, min_score=80):
-    """采集 HN Top Stories + Show HN（并发加速）"""
-    print(f"[HN] 采集 Top {max_stories} stories (score >= {min_score})...")
+def collect_hn(max_stories=20, min_score=50):
+    """采集 HN Top Stories + Show HN + Ask HN（并发加速）"""
+    print(f"[HN] 采集 Top {max_stories} + Show/Ask stories (score >= {min_score})...")
     
     results = {"top_stories": [], "show_hn": [], "ask_hn": []}
     
+    # 三个端点：topstories, showstories, askstories
+    endpoints = {
+        "top_stories": "topstories.json",
+        "show_hn": "showstories.json",
+        "ask_hn": "askstories.json",
+    }
+    
     try:
-        ids = requests.get(f"{HN_API}/topstories.json", proxies=PROXIES, timeout=10).json()[:max_stories]
+        all_entries = []
         
-        # 并发获取所有 item
-        entries = []
-        with ThreadPoolExecutor(max_workers=10) as pool:
-            futures = {pool.submit(_fetch_hn_item, sid): sid for sid in ids}
-            for f in as_completed(futures, timeout=30):
-                entry = f.result()
-                if entry and entry["score"] >= min_score:
-                    entries.append(entry)
-        
-        for entry in entries:
-            if entry["title"].startswith("Show HN:"):
-                results["show_hn"].append(entry)
-            elif entry["title"].startswith("Ask HN:"):
-                results["ask_hn"].append(entry)
-            else:
-                results["top_stories"].append(entry)
+        for category, endpoint in endpoints.items():
+            ids_resp = requests.get(f"{HN_API}/{endpoint}", proxies=PROXIES, timeout=10)
+            if ids_resp.status_code != 200:
+                print(f"[HN] ⚠️ {endpoint} 返回 {ids_resp.status_code}")
+                continue
+            ids = ids_resp.json()[:max_stories]
+            
+            # 并发获取所有 item
+            with ThreadPoolExecutor(max_workers=10) as pool:
+                futures = {pool.submit(_fetch_hn_item, sid): sid for sid in ids}
+                for f in as_completed(futures, timeout=30):
+                    entry = f.result()
+                    if entry and entry["score"] >= min_score:
+                        # 强制按端点分类（比标题匹配更可靠）
+                        results[category].append(entry)
         
         # 按 score 排序
         for k in results:
@@ -154,12 +160,15 @@ def collect_github_trending(since="daily", language=""):
 # ── HuggingFace Trending 采集 ──────────────────────────────
 def collect_huggingface():
     """采集 HuggingFace Trending Models & Spaces"""
-    print("[HuggingFace] 采集 Trending models & spaces...")
+    print("[HuggingFace] 采集热门 models & spaces...")
     results = {"models": [], "spaces": []}
     
     try:
-        # Trending models
-        r = requests.get(f"{HF_API}/models?sort=trending&limit=15", proxies=PROXIES, timeout=15)
+        # 注意：sort=trending 已失效(400)，改用 sort=downloads + direction=-1
+        r = requests.get(
+            f"{HF_API}/models?sort=downloads&direction=-1&limit=15",
+            proxies=PROXIES, timeout=15
+        )
         if r.status_code == 200:
             for m in r.json():
                 results["models"].append({
@@ -171,12 +180,17 @@ def collect_huggingface():
                     "tags": m.get("tags", [])[:10],
                     "url": f"https://huggingface.co/{m.get('id', '')}",
                 })
+        else:
+            print(f"[HF Models] ⚠️ status {r.status_code}")
     except Exception as e:
         print(f"[HF Models] ❌ 错误: {e}")
     
     try:
-        # Trending spaces
-        r = requests.get(f"{HF_API}/spaces?sort=trending&limit=10", proxies=PROXIES, timeout=15)
+        # Spaces 也改用 sort=likes
+        r = requests.get(
+            f"{HF_API}/spaces?sort=likes&direction=-1&limit=10",
+            proxies=PROXIES, timeout=15
+        )
         if r.status_code == 200:
             for s in r.json():
                 results["spaces"].append({
@@ -186,6 +200,8 @@ def collect_huggingface():
                     "sdk": s.get("sdk", ""),
                     "url": f"https://huggingface.co/spaces/{s.get('id', '')}",
                 })
+        else:
+            print(f"[HF Spaces] ⚠️ status {r.status_code}")
     except Exception as e:
         print(f"[HF Spaces] ❌ 错误: {e}")
     
