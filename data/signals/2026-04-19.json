@@ -1,0 +1,1617 @@
+{
+  "date": "2026-04-19",
+  "collected_at": "2026-04-19T08:00:08.660361+08:00",
+  "proxy_used": true,
+  "signals": {
+    "hackernews": {
+      "top_stories": [
+        {
+          "id": 47815774,
+          "title": "Migrating from DigitalOcean to Hetzner",
+          "score": 661,
+          "descendants": 337,
+          "by": "yusufusta",
+          "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+          "hn_link": "https://news.ycombinator.com/item?id=47815774",
+          "time": "2026-04-18T21:29:04+08:00"
+        },
+        {
+          "id": 47816960,
+          "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+          "score": 395,
+          "descendants": 414,
+          "by": "anabranch",
+          "url": "https://tokens.billchambers.me/leaderboard",
+          "hn_link": "https://news.ycombinator.com/item?id=47816960",
+          "time": "2026-04-19T00:05:43+08:00"
+        },
+        {
+          "id": 47782925,
+          "title": "Michael Rabin has died",
+          "score": 378,
+          "descendants": 78,
+          "by": "tkhattra",
+          "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+          "hn_link": "https://news.ycombinator.com/item?id=47782925",
+          "time": "2026-04-16T02:07:46+08:00"
+        },
+        {
+          "id": 47815118,
+          "title": "State of Kdenlive",
+          "score": 324,
+          "descendants": 108,
+          "by": "f_r_d",
+          "url": "https://kdenlive.org/news/2026/state-2026/",
+          "hn_link": "https://news.ycombinator.com/item?id=47815118",
+          "time": "2026-04-18T19:42:37+08:00"
+        },
+        {
+          "id": 47817132,
+          "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+          "score": 242,
+          "descendants": 71,
+          "by": "NelsonMinar",
+          "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+          "hn_link": "https://news.ycombinator.com/item?id=47817132",
+          "time": "2026-04-19T00:26:47+08:00"
+        },
+        {
+          "id": 47818305,
+          "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
+          "score": 228,
+          "descendants": 165,
+          "by": "trocado",
+          "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+          "hn_link": "https://news.ycombinator.com/item?id=47818305",
+          "time": "2026-04-19T02:36:07+08:00"
+        },
+        {
+          "id": 47818700,
+          "title": "Thoughts and feelings around Claude Design",
+          "score": 199,
+          "descendants": 133,
+          "by": "cdrnsf",
+          "url": "https://samhenri.gold/blog/20260418-claude-design/",
+          "hn_link": "https://news.ycombinator.com/item?id=47818700",
+          "time": "2026-04-19T03:19:24+08:00"
+        },
+        {
+          "id": 47784395,
+          "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+          "score": 154,
+          "descendants": 5,
+          "by": "Lwrless",
+          "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
+          "hn_link": "https://news.ycombinator.com/item?id=47784395",
+          "time": "2026-04-16T03:56:31+08:00"
+        },
+        {
+          "id": 47819453,
+          "title": "NIST scientists create 'any wavelength' lasers",
+          "score": 97,
+          "descendants": 46,
+          "by": "rbanffy",
+          "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+          "hn_link": "https://news.ycombinator.com/item?id=47819453",
+          "time": "2026-04-19T04:54:17+08:00"
+        },
+        {
+          "id": 47818485,
+          "title": "College instructor turns to typewriters to curb AI-written work",
+          "score": 89,
+          "descendants": 87,
+          "by": "gnabgib",
+          "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+          "hn_link": "https://news.ycombinator.com/item?id=47818485",
+          "time": "2026-04-19T03:00:00+08:00"
+        },
+        {
+          "id": 47816629,
+          "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+          "score": 84,
+          "descendants": 30,
+          "by": "drasim",
+          "url": "https://github.com/drasimwagan/mdv",
+          "hn_link": "https://news.ycombinator.com/item?id=47816629",
+          "time": "2026-04-18T23:24:39+08:00"
+        },
+        {
+          "id": 47817349,
+          "title": "PgQue: Zero-Bloat Postgres Queue",
+          "score": 72,
+          "descendants": 7,
+          "by": "gmcabrita",
+          "url": "https://github.com/NikolayS/pgque",
+          "hn_link": "https://news.ycombinator.com/item?id=47817349",
+          "time": "2026-04-19T00:50:46+08:00"
+        },
+        {
+          "id": 47784250,
+          "title": "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
+          "score": 67,
+          "descendants": 26,
+          "by": "t-3",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
+          "hn_link": "https://news.ycombinator.com/item?id=47784250",
+          "time": "2026-04-16T03:46:16+08:00"
+        },
+        {
+          "id": 47779659,
+          "title": "Modern Common Lisp with FSet",
+          "score": 60,
+          "descendants": 5,
+          "by": "larve",
+          "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+          "hn_link": "https://news.ycombinator.com/item?id=47779659",
+          "time": "2026-04-15T22:38:38+08:00"
+        }
+      ],
+      "show_hn": [
+        {
+          "id": 47808268,
+          "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+          "score": 443,
+          "descendants": 134,
+          "by": "binsquare",
+          "url": "https://github.com/smol-machines/smolvm",
+          "hn_link": "https://news.ycombinator.com/item?id=47808268",
+          "time": "2026-04-18T01:18:58+08:00"
+        },
+        {
+          "id": 47812341,
+          "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+          "score": 288,
+          "descendants": 49,
+          "by": "fouronnes3",
+          "url": "https://victorpoughon.github.io/interval-calculator/",
+          "hn_link": "https://news.ycombinator.com/item?id=47812341",
+          "time": "2026-04-18T09:15:43+08:00"
+        },
+        {
+          "id": 47807809,
+          "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+          "score": 244,
+          "descendants": 109,
+          "by": "seanieb",
+          "url": "https://github.com/paniclock/paniclock/",
+          "hn_link": "https://news.ycombinator.com/item?id=47807809",
+          "time": "2026-04-18T00:38:44+08:00"
+        },
+        {
+          "id": 47792525,
+          "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+          "score": 155,
+          "descendants": 42,
+          "by": "hammer32",
+          "url": "https://github.com/SeanFDZ/macmind",
+          "hn_link": "https://news.ycombinator.com/item?id=47792525",
+          "time": "2026-04-16T21:16:29+08:00"
+        },
+        {
+          "id": 47801255,
+          "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+          "score": 119,
+          "descendants": 31,
+          "by": "_fizz_buzz_",
+          "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+          "hn_link": "https://news.ycombinator.com/item?id=47801255",
+          "time": "2026-04-17T08:37:47+08:00"
+        },
+        {
+          "id": 47796818,
+          "title": "Show HN: Stage – Putting humans back in control of code review",
+          "score": 118,
+          "descendants": 106,
+          "by": "cpan22",
+          "url": "https://stagereview.app/",
+          "hn_link": "https://news.ycombinator.com/item?id=47796818",
+          "time": "2026-04-17T01:36:29+08:00"
+        },
+        {
+          "id": 47759035,
+          "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+          "score": 108,
+          "descendants": 26,
+          "by": "agentseal",
+          "url": "https://github.com/AgentSeal/codeburn",
+          "hn_link": "https://news.ycombinator.com/item?id=47759035",
+          "time": "2026-04-14T06:57:05+08:00"
+        },
+        {
+          "id": 47816629,
+          "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+          "score": 84,
+          "descendants": 30,
+          "by": "drasim",
+          "url": "https://github.com/drasimwagan/mdv",
+          "hn_link": "https://news.ycombinator.com/item?id=47816629",
+          "time": "2026-04-18T23:24:39+08:00"
+        }
+      ],
+      "ask_hn": [
+        {
+          "id": 47769796,
+          "title": "Tell HN: Fiverr left customer files public and searchable",
+          "score": 823,
+          "descendants": 230,
+          "by": "morpheuskafka",
+          "url": "",
+          "hn_link": "https://news.ycombinator.com/item?id=47769796",
+          "time": "2026-04-15T02:56:40+08:00"
+        },
+        {
+          "id": 47783940,
+          "title": "Ask HN: Who is using OpenClaw?",
+          "score": 335,
+          "descendants": 379,
+          "by": "misterchocolat",
+          "url": "",
+          "hn_link": "https://news.ycombinator.com/item?id=47783940",
+          "time": "2026-04-16T03:22:10+08:00"
+        },
+        {
+          "id": 47792026,
+          "title": "Tell HN: 48 absurd web projects – one every month",
+          "score": 78,
+          "descendants": 26,
+          "by": "absurdwebsite",
+          "url": "",
+          "hn_link": "https://news.ycombinator.com/item?id=47792026",
+          "time": "2026-04-16T20:29:33+08:00"
+        },
+        {
+          "id": 47803524,
+          "title": "Ask HN: Building a solo business is impossible?",
+          "score": 53,
+          "descendants": 74,
+          "by": "fnoef",
+          "url": "",
+          "hn_link": "https://news.ycombinator.com/item?id=47803524",
+          "time": "2026-04-17T15:55:18+08:00"
+        }
+      ]
+    },
+    "github": [
+      {
+        "name": "getagentseal/codeburn",
+        "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+        "stars": 2709,
+        "language": "TypeScript",
+        "url": "https://github.com/getagentseal/codeburn",
+        "created_at": "2026-04-13T22:11:53Z",
+        "pushed_at": "2026-04-18T22:56:34Z",
+        "topics": [
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex",
+          "cost-tracking",
+          "cursor-ide",
+          "developer-tools",
+          "observability",
+          "terminal-ui",
+          "token-usage"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "Robbyant/lingbot-map",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "stars": 1847,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-map",
+        "created_at": "2026-04-15T17:59:48Z",
+        "pushed_at": "2026-04-18T13:42:11Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "vercel-labs/wterm",
+        "description": "A terminal emulator for the web",
+        "stars": 1501,
+        "language": "TypeScript",
+        "url": "https://github.com/vercel-labs/wterm",
+        "created_at": "2026-04-14T14:52:44Z",
+        "pushed_at": "2026-04-18T18:31:42Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "Nightmare-Eclipse/RedSun",
+        "description": "The Red Sun vulnerability repository",
+        "stars": 1495,
+        "language": "C++",
+        "url": "https://github.com/Nightmare-Eclipse/RedSun",
+        "created_at": "2026-04-15T21:37:07Z",
+        "pushed_at": "2026-04-15T22:53:04Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "alchaincyf/darwin-skill",
+        "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+        "stars": 1191,
+        "language": "HTML",
+        "url": "https://github.com/alchaincyf/darwin-skill",
+        "created_at": "2026-04-13T08:57:49Z",
+        "pushed_at": "2026-04-18T17:21:38Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "lewislulu/html-ppt-skill",
+        "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+        "stars": 1135,
+        "language": "HTML",
+        "url": "https://github.com/lewislulu/html-ppt-skill",
+        "created_at": "2026-04-15T07:36:22Z",
+        "pushed_at": "2026-04-17T18:31:26Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "Manavarya09/design-extract",
+        "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+        "stars": 999,
+        "language": "JavaScript",
+        "url": "https://github.com/Manavarya09/design-extract",
+        "created_at": "2026-04-15T10:11:22Z",
+        "pushed_at": "2026-04-18T23:38:41Z",
+        "topics": [
+          "accessibility",
+          "agent-skill",
+          "ai",
+          "chrome-extension",
+          "claude-code-plugin",
+          "cli",
+          "css",
+          "cursor",
+          "design-system",
+          "design-to-code",
+          "design-tokens",
+          "dtcg",
+          "figma",
+          "mcp-server",
+          "npx",
+          "playwright",
+          "shadcn-ui",
+          "skills-sh",
+          "tailwind",
+          "web-scraping"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "BuilderPulse/BuilderPulse",
+        "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+        "stars": 929,
+        "language": null,
+        "url": "https://github.com/BuilderPulse/BuilderPulse",
+        "created_at": "2026-04-14T11:48:05Z",
+        "pushed_at": "2026-04-18T04:32:01Z",
+        "topics": [
+          "ai",
+          "builders",
+          "indiehackers"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "sogonov/anubis",
+        "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+        "stars": 913,
+        "language": "Kotlin",
+        "url": "https://github.com/sogonov/anubis",
+        "created_at": "2026-04-13T03:41:38Z",
+        "pushed_at": "2026-04-18T14:54:24Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "WeaveMindAI/weft",
+        "description": "A programming language for AI systems",
+        "stars": 830,
+        "language": "Rust",
+        "url": "https://github.com/WeaveMindAI/weft",
+        "created_at": "2026-04-15T04:09:40Z",
+        "pushed_at": "2026-04-18T07:16:36Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "yaojingang/GEOFlow",
+        "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+        "stars": 809,
+        "language": "PHP",
+        "url": "https://github.com/yaojingang/GEOFlow",
+        "created_at": "2026-04-13T11:42:03Z",
+        "pushed_at": "2026-04-18T12:15:35Z",
+        "topics": [
+          "ai",
+          "cms",
+          "content-automation",
+          "geo",
+          "openai-compatible",
+          "php",
+          "postgresql",
+          "seo"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "wbh604/UZI-Skill",
+        "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+        "stars": 760,
+        "language": "Python",
+        "url": "https://github.com/wbh604/UZI-Skill",
+        "created_at": "2026-04-16T07:36:06Z",
+        "pushed_at": "2026-04-18T19:16:55Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "Lazarus-AI/clearwing",
+        "description": null,
+        "stars": 640,
+        "language": "Python",
+        "url": "https://github.com/Lazarus-AI/clearwing",
+        "created_at": "2026-04-14T20:00:22Z",
+        "pushed_at": "2026-04-18T23:55:09Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "andrewjiang/palantir-for-family-trips",
+        "description": "A Palantir-ish dashboard for family trip planning.",
+        "stars": 631,
+        "language": "JavaScript",
+        "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+        "created_at": "2026-04-13T07:45:24Z",
+        "pushed_at": "2026-04-13T07:46:07Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "xataio/xata",
+        "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+        "stars": 602,
+        "language": "Go",
+        "url": "https://github.com/xataio/xata",
+        "created_at": "2026-04-15T08:49:42Z",
+        "pushed_at": "2026-04-17T10:22:48Z",
+        "topics": [
+          "branching",
+          "kubernetes",
+          "postgresql",
+          "scale-to-zero"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "op7418/logo-generator-skill",
+        "description": "logo-generator-skill",
+        "stars": 601,
+        "language": "HTML",
+        "url": "https://github.com/op7418/logo-generator-skill",
+        "created_at": "2026-04-15T14:05:35Z",
+        "pushed_at": "2026-04-15T16:41:26Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "poteto/how",
+        "description": "skill for explaining architecture",
+        "stars": 561,
+        "language": null,
+        "url": "https://github.com/poteto/how",
+        "created_at": "2026-04-14T19:37:58Z",
+        "pushed_at": "2026-04-14T22:14:28Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "codejunkie99/agentic-stack",
+        "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+        "stars": 500,
+        "language": "Python",
+        "url": "https://github.com/codejunkie99/agentic-stack",
+        "created_at": "2026-04-15T13:45:41Z",
+        "pushed_at": "2026-04-18T21:22:38Z",
+        "topics": [],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "millionco/claude-doctor",
+        "description": "Diagnose your Claude Code sessions",
+        "stars": 463,
+        "language": "TypeScript",
+        "url": "https://github.com/millionco/claude-doctor",
+        "created_at": "2026-04-15T00:13:49Z",
+        "pushed_at": "2026-04-15T09:26:42Z",
+        "topics": [
+          "claude",
+          "code",
+          "doctor"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "bwjoke/BTC-Trading-Since-2020",
+        "description": "Public BTC trading context since 2020.",
+        "stars": 458,
+        "language": null,
+        "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+        "created_at": "2026-04-17T19:18:03Z",
+        "pushed_at": "2026-04-18T17:20:29Z",
+        "topics": [
+          "bitcoin",
+          "bitmex",
+          "crypto",
+          "dataset",
+          "open-intelligence",
+          "trading"
+        ],
+        "fork": false,
+        "type": "new_hot"
+      },
+      {
+        "name": "freeCodeCamp/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "stars": 443145,
+        "language": "TypeScript",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "created_at": "2014-12-24T17:49:19Z",
+        "pushed_at": "2026-04-18T20:08:04Z",
+        "topics": [
+          "careers",
+          "certification",
+          "community",
+          "curriculum",
+          "d3",
+          "education",
+          "freecodecamp",
+          "javascript",
+          "learn-to-code",
+          "math",
+          "nodejs",
+          "nonprofits",
+          "programming",
+          "react",
+          "teachers"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "EbookFoundation/free-programming-books",
+        "description": ":books: Freely available programming books",
+        "stars": 385686,
+        "language": "Python",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "created_at": "2013-10-11T06:50:37Z",
+        "pushed_at": "2026-04-15T18:54:46Z",
+        "topics": [
+          "books",
+          "education",
+          "hacktoberfest",
+          "list",
+          "resource"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+        "stars": 360066,
+        "language": "TypeScript",
+        "url": "https://github.com/openclaw/openclaw",
+        "created_at": "2025-11-24T10:16:47Z",
+        "pushed_at": "2026-04-18T23:59:55Z",
+        "topics": [
+          "ai",
+          "assistant",
+          "crustacean",
+          "molty",
+          "openclaw",
+          "own-your-data",
+          "personal"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "kamranahmedse/developer-roadmap",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": 353165,
+        "language": "TypeScript",
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "created_at": "2017-03-15T13:45:52Z",
+        "pushed_at": "2026-04-16T10:24:42Z",
+        "topics": [
+          "angular-roadmap",
+          "backend-roadmap",
+          "blockchain-roadmap",
+          "computer-science",
+          "dba-roadmap",
+          "developer-roadmap",
+          "devops-roadmap",
+          "frontend-roadmap",
+          "go-roadmap",
+          "java-roadmap",
+          "javascript-roadmap",
+          "nodejs-roadmap",
+          "python-roadmap",
+          "qa-roadmap",
+          "react-roadmap",
+          "roadmap",
+          "software-architect-roadmap",
+          "vue-roadmap"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "vinta/awesome-python",
+        "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+        "stars": 293091,
+        "language": "Python",
+        "url": "https://github.com/vinta/awesome-python",
+        "created_at": "2014-06-27T21:00:06Z",
+        "pushed_at": "2026-04-18T21:36:03Z",
+        "topics": [
+          "awesome",
+          "collections",
+          "python",
+          "python-frameworks",
+          "python-libraries",
+          "python-tools"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "awesome-selfhosted/awesome-selfhosted",
+        "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+        "stars": 286759,
+        "language": null,
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "created_at": "2015-06-01T02:33:17Z",
+        "pushed_at": "2026-04-18T13:02:31Z",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "cloud",
+          "free-software",
+          "hosting",
+          "privacy",
+          "self-hosted",
+          "selfhosted"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "facebook/react",
+        "description": "The library for web and native user interfaces.",
+        "stars": 244575,
+        "language": "JavaScript",
+        "url": "https://github.com/facebook/react",
+        "created_at": "2013-05-24T16:15:54Z",
+        "pushed_at": "2026-04-17T20:51:48Z",
+        "topics": [
+          "declarative",
+          "frontend",
+          "javascript",
+          "library",
+          "react",
+          "ui"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "torvalds/linux",
+        "description": "Linux kernel source tree",
+        "stars": 229736,
+        "language": "C",
+        "url": "https://github.com/torvalds/linux",
+        "created_at": "2011-09-04T22:48:12Z",
+        "pushed_at": "2026-04-18T18:40:34Z",
+        "topics": [],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "TheAlgorithms/Python",
+        "description": "All Algorithms implemented in Python",
+        "stars": 219797,
+        "language": "Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "created_at": "2016-07-16T09:44:01Z",
+        "pushed_at": "2026-04-13T22:10:46Z",
+        "topics": [
+          "algorithm",
+          "algorithm-competitions",
+          "algorithms-implemented",
+          "algos",
+          "community-driven",
+          "education",
+          "hacktoberfest",
+          "interview",
+          "learn",
+          "practice",
+          "python",
+          "searches",
+          "sorting-algorithms",
+          "sorts"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "ossu/computer-science",
+        "description": "🎓 Path to a free self-taught education in Computer Science!",
+        "stars": 203142,
+        "language": "HTML",
+        "url": "https://github.com/ossu/computer-science",
+        "created_at": "2014-05-04T00:18:39Z",
+        "pushed_at": "2026-04-15T07:33:58Z",
+        "topics": [
+          "awesome-list",
+          "computer-science",
+          "courses",
+          "curriculum"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "tensorflow/tensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stars": 194779,
+        "language": "C++",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "created_at": "2015-11-07T01:19:20Z",
+        "pushed_at": "2026-04-18T23:16:26Z",
+        "topics": [
+          "deep-learning",
+          "deep-neural-networks",
+          "distributed",
+          "machine-learning",
+          "ml",
+          "neural-network",
+          "python",
+          "tensorflow"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "ohmyzsh/ohmyzsh",
+        "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+        "stars": 186318,
+        "language": "Shell",
+        "url": "https://github.com/ohmyzsh/ohmyzsh",
+        "created_at": "2009-08-28T18:15:37Z",
+        "pushed_at": "2026-04-16T17:05:25Z",
+        "topics": [
+          "cli",
+          "cli-app",
+          "oh-my-zsh",
+          "oh-my-zsh-plugin",
+          "oh-my-zsh-theme",
+          "ohmyzsh",
+          "plugin-framework",
+          "plugins",
+          "productivity",
+          "shell",
+          "terminal",
+          "theme",
+          "themes",
+          "zsh",
+          "zsh-configuration"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "ultraworkers/claw-code",
+        "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+        "stars": 186023,
+        "language": "Rust",
+        "url": "https://github.com/ultraworkers/claw-code",
+        "created_at": "2026-03-31T08:58:08Z",
+        "pushed_at": "2026-04-17T04:15:47Z",
+        "topics": [],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "n8n-io/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": 184600,
+        "language": "TypeScript",
+        "url": "https://github.com/n8n-io/n8n",
+        "created_at": "2019-06-22T09:24:21Z",
+        "pushed_at": "2026-04-18T22:05:38Z",
+        "topics": [
+          "ai",
+          "apis",
+          "automation",
+          "cli",
+          "data-flow",
+          "development",
+          "integration-framework",
+          "integrations",
+          "ipaas",
+          "low-code",
+          "low-code-platform",
+          "mcp",
+          "mcp-client",
+          "mcp-server",
+          "n8n",
+          "no-code",
+          "self-hosted",
+          "typescript",
+          "workflow",
+          "workflow-automation"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      },
+      {
+        "name": "microsoft/vscode",
+        "description": "Visual Studio Code",
+        "stars": 184009,
+        "language": "TypeScript",
+        "url": "https://github.com/microsoft/vscode",
+        "created_at": "2015-09-03T20:23:38Z",
+        "pushed_at": "2026-04-18T23:19:46Z",
+        "topics": [
+          "editor",
+          "electron",
+          "microsoft",
+          "typescript",
+          "visual-studio-code"
+        ],
+        "fork": false,
+        "type": "active_popular"
+      }
+    ],
+    "huggingface": {
+      "models": [
+        {
+          "id": "sentence-transformers/all-MiniLM-L6-v2",
+          "author": "",
+          "downloads": 201120323,
+          "likes": 4703,
+          "pipeline_tag": "sentence-similarity",
+          "tags": [
+            "sentence-transformers",
+            "pytorch",
+            "tf",
+            "rust",
+            "onnx",
+            "safetensors",
+            "openvino",
+            "bert",
+            "feature-extraction",
+            "sentence-similarity"
+          ],
+          "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+        },
+        {
+          "id": "google-bert/bert-base-uncased",
+          "author": "",
+          "downloads": 62588305,
+          "likes": 2626,
+          "pipeline_tag": "fill-mask",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "jax",
+            "rust",
+            "coreml",
+            "onnx",
+            "safetensors",
+            "bert",
+            "fill-mask"
+          ],
+          "url": "https://huggingface.co/google-bert/bert-base-uncased"
+        },
+        {
+          "id": "google/electra-base-discriminator",
+          "author": "",
+          "downloads": 47798034,
+          "likes": 94,
+          "pipeline_tag": "",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "jax",
+            "rust",
+            "electra",
+            "pretraining",
+            "en",
+            "arxiv:1406.2661",
+            "license:apache-2.0"
+          ],
+          "url": "https://huggingface.co/google/electra-base-discriminator"
+        },
+        {
+          "id": "Qwen/Qwen3-VL-2B-Instruct",
+          "author": "",
+          "downloads": 40175973,
+          "likes": 367,
+          "pipeline_tag": "image-text-to-text",
+          "tags": [
+            "transformers",
+            "safetensors",
+            "qwen3_vl",
+            "image-text-to-text",
+            "conversational",
+            "arxiv:2505.09388",
+            "arxiv:2502.13923",
+            "arxiv:2409.12191",
+            "arxiv:2308.12966",
+            "license:apache-2.0"
+          ],
+          "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct"
+        },
+        {
+          "id": "Falconsai/nsfw_image_detection",
+          "author": "",
+          "downloads": 37538194,
+          "likes": 1049,
+          "pipeline_tag": "image-classification",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "safetensors",
+            "vit",
+            "image-classification",
+            "arxiv:2010.11929",
+            "license:apache-2.0",
+            "endpoints_compatible",
+            "deploy:azure",
+            "region:us"
+          ],
+          "url": "https://huggingface.co/Falconsai/nsfw_image_detection"
+        },
+        {
+          "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "author": "",
+          "downloads": 33435153,
+          "likes": 1202,
+          "pipeline_tag": "sentence-similarity",
+          "tags": [
+            "sentence-transformers",
+            "pytorch",
+            "tf",
+            "onnx",
+            "safetensors",
+            "openvino",
+            "bert",
+            "feature-extraction",
+            "sentence-similarity",
+            "transformers"
+          ],
+          "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        {
+          "id": "sentence-transformers/all-mpnet-base-v2",
+          "author": "",
+          "downloads": 32740298,
+          "likes": 1278,
+          "pipeline_tag": "sentence-similarity",
+          "tags": [
+            "sentence-transformers",
+            "pytorch",
+            "onnx",
+            "safetensors",
+            "openvino",
+            "mpnet",
+            "fill-mask",
+            "feature-extraction",
+            "sentence-similarity",
+            "transformers"
+          ],
+          "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2"
+        },
+        {
+          "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "author": "",
+          "downloads": 22354270,
+          "likes": 219,
+          "pipeline_tag": "text-ranking",
+          "tags": [
+            "sentence-transformers",
+            "pytorch",
+            "jax",
+            "onnx",
+            "safetensors",
+            "openvino",
+            "bert",
+            "text-classification",
+            "transformers",
+            "text-ranking"
+          ],
+          "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2"
+        },
+        {
+          "id": "FacebookAI/roberta-large",
+          "author": "",
+          "downloads": 21709094,
+          "likes": 276,
+          "pipeline_tag": "fill-mask",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "jax",
+            "onnx",
+            "safetensors",
+            "roberta",
+            "fill-mask",
+            "exbert",
+            "en"
+          ],
+          "url": "https://huggingface.co/FacebookAI/roberta-large"
+        },
+        {
+          "id": "openai/clip-vit-large-patch14",
+          "author": "",
+          "downloads": 21408176,
+          "likes": 1992,
+          "pipeline_tag": "zero-shot-image-classification",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "jax",
+            "safetensors",
+            "clip",
+            "zero-shot-image-classification",
+            "vision",
+            "arxiv:2103.00020",
+            "arxiv:1908.04913"
+          ],
+          "url": "https://huggingface.co/openai/clip-vit-large-patch14"
+        },
+        {
+          "id": "BAAI/bge-small-en-v1.5",
+          "author": "",
+          "downloads": 20446278,
+          "likes": 444,
+          "pipeline_tag": "feature-extraction",
+          "tags": [
+            "sentence-transformers",
+            "pytorch",
+            "onnx",
+            "safetensors",
+            "bert",
+            "feature-extraction",
+            "sentence-similarity",
+            "transformers",
+            "mteb",
+            "en"
+          ],
+          "url": "https://huggingface.co/BAAI/bge-small-en-v1.5"
+        },
+        {
+          "id": "openai/clip-vit-base-patch32",
+          "author": "",
+          "downloads": 20242019,
+          "likes": 912,
+          "pipeline_tag": "zero-shot-image-classification",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "jax",
+            "clip",
+            "zero-shot-image-classification",
+            "vision",
+            "arxiv:2103.00020",
+            "arxiv:1908.04913",
+            "endpoints_compatible"
+          ],
+          "url": "https://huggingface.co/openai/clip-vit-base-patch32"
+        },
+        {
+          "id": "FacebookAI/xlm-roberta-base",
+          "author": "",
+          "downloads": 18112816,
+          "likes": 817,
+          "pipeline_tag": "fill-mask",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "jax",
+            "onnx",
+            "safetensors",
+            "xlm-roberta",
+            "fill-mask",
+            "exbert",
+            "multilingual"
+          ],
+          "url": "https://huggingface.co/FacebookAI/xlm-roberta-base"
+        },
+        {
+          "id": "openai/clip-vit-large-patch14-336",
+          "author": "",
+          "downloads": 17972727,
+          "likes": 302,
+          "pipeline_tag": "zero-shot-image-classification",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "tf",
+            "clip",
+            "zero-shot-image-classification",
+            "generated_from_keras_callback",
+            "endpoints_compatible",
+            "region:us"
+          ],
+          "url": "https://huggingface.co/openai/clip-vit-large-patch14-336"
+        },
+        {
+          "id": "laion/clap-htsat-fused",
+          "author": "",
+          "downloads": 17918546,
+          "likes": 77,
+          "pipeline_tag": "audio-classification",
+          "tags": [
+            "transformers",
+            "pytorch",
+            "safetensors",
+            "clap",
+            "feature-extraction",
+            "zero-shot audio classification",
+            "zero-shot audio retrieval",
+            "audio-classification",
+            "en",
+            "arxiv:2211.06687"
+          ],
+          "url": "https://huggingface.co/laion/clap-htsat-fused"
+        }
+      ],
+      "spaces": [
+        {
+          "id": "open-llm-leaderboard/open_llm_leaderboard",
+          "author": "",
+          "likes": 13950,
+          "sdk": "docker",
+          "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard"
+        },
+        {
+          "id": "jbilcke-hf/ai-comic-factory",
+          "author": "",
+          "likes": 11039,
+          "sdk": "docker",
+          "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory"
+        },
+        {
+          "id": "Kwai-Kolors/Kolors-Virtual-Try-On",
+          "author": "",
+          "likes": 10040,
+          "sdk": "gradio",
+          "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On"
+        },
+        {
+          "id": "black-forest-labs/FLUX.1-dev",
+          "author": "",
+          "likes": 9432,
+          "sdk": "gradio",
+          "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev"
+        },
+        {
+          "id": "mteb/leaderboard",
+          "author": "",
+          "likes": 7276,
+          "sdk": "docker",
+          "url": "https://huggingface.co/spaces/mteb/leaderboard"
+        },
+        {
+          "id": "dalle-mini/dalle-mini",
+          "author": "",
+          "likes": 5677,
+          "sdk": "static",
+          "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini"
+        },
+        {
+          "id": "AP123/IllusionDiffusion",
+          "author": "",
+          "likes": 5397,
+          "sdk": "gradio",
+          "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion"
+        },
+        {
+          "id": "Wan-AI/Wan2.2-Animate",
+          "author": "",
+          "likes": 5109,
+          "sdk": "gradio",
+          "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate"
+        },
+        {
+          "id": "facebook/MusicGen",
+          "author": "",
+          "likes": 5069,
+          "sdk": "gradio",
+          "url": "https://huggingface.co/spaces/facebook/MusicGen"
+        },
+        {
+          "id": "black-forest-labs/FLUX.1-schnell",
+          "author": "",
+          "likes": 5058,
+          "sdk": "gradio",
+          "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell"
+        }
+      ]
+    },
+    "reddit": {
+      "SaaS": [
+        {
+          "title": "End of AI Slop",
+          "score": 228,
+          "num_comments": 68,
+          "author": "Dubinko",
+          "url": "https://reddit.com/r/SaaS/comments/1sndwq7/end_of_ai_slop/",
+          "external_url": "https://i.redd.it/cjg83v67ulvg1.jpeg",
+          "selftext": "Hi r/SaaS community,\n\nWe think conventional methods aren't working in fighting the current state of AI slop in this sub. I know you are fed up with all this so am I. You come here to get real advice, listen to real people, and get real feedback - instead you get AI comments, bot DMs, disguised as real users which doesn't help you in your SaaS journey.\n\nWe are implementing captcha and user vetting bot, some of your posts and comments will get a comment from our bot and you will have to respond to",
+          "created_utc": "2026-04-16T19:34:07+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "New Rule against Self-Promo",
+          "score": 157,
+          "num_comments": 72,
+          "author": "Dubinko",
+          "url": "https://reddit.com/r/SaaS/comments/1slno92/new_rule_against_selfpromo/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1slno92/new_rule_against_selfpromo/",
+          "selftext": "Hi Folks,\n\nWe continue fighting spam and bots on this sub, as things are worse than we initially thought we have to implement a tighter rule against Spam/Self-Promo/Ads.\n\nPromoting projects you're part of is fine occasionally, but accounts that exist mainly to promote will be removed.\n\n* Self-promotion is limited to **once per 60 days**\n* This includes posts, comment plugs, and links (and mentions) to your own product\n* Alt accounts promoting the **same product count as the same user**\n\nViolatio",
+          "created_utc": "2026-04-14T22:26:30+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "I feel like giving up 😟",
+          "score": 74,
+          "num_comments": 188,
+          "author": "Altruistic-Bed7175",
+          "url": "https://reddit.com/r/SaaS/comments/1soyio4/i_feel_like_giving_up/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1soyio4/i_feel_like_giving_up/",
+          "selftext": "How do u guys handle this shit? \n\nLike, working when it doesn't work as you wanted and you're running short on money. No work, no support.\n\nI run a platform and althought we got 600 users in a month it is NOT as rewarding as you might think. For now we only have $77 revenue and monetizing that with a hard paywall will just kill it. \n\nSo literally, spent a lot of time, money, and effort on making this and neither me nor the developer are making anything noticeable\n\nAnd the cost of keeping it runn",
+          "created_utc": "2026-04-18T14:04:40+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Stuck on Marketing for your Startup? Here's the playbook that took our startup from $1,500 MRR -&gt; 10k+ in 7 Months.",
+          "score": 46,
+          "num_comments": 51,
+          "author": "GildedGazePart",
+          "url": "https://reddit.com/r/SaaS/comments/1sou5vz/stuck_on_marketing_for_your_startup_heres_the/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1sou5vz/stuck_on_marketing_for_your_startup_heres_the/",
+          "selftext": "Hey guys, I see people in this community in particular asking the same question. \"How do I get my first Customers?\"\n\nWhether you have 1000 or zero customers, we can all admit things have changed a LOT in the last 5 years, and I wanted to share what's been working for our startup the last 18 months. Lean, scalable and automated is the goal.\n\nHere are a few rules / truths to keep in mind:\n\nRule 1: Action beats precision every time. If you take one thing away from this post, it's momentum, stay in ",
+          "created_utc": "2026-04-18T10:37:03+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Anyone else in healthtech feel like deals slow down right after a strong first call?",
+          "score": 6,
+          "num_comments": 8,
+          "author": "MaximumTimely9864",
+          "url": "https://reddit.com/r/SaaS/comments/1sp8qb7/anyone_else_in_healthtech_feel_like_deals_slow/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1sp8qb7/anyone_else_in_healthtech_feel_like_deals_slow/",
+          "selftext": "I’m noticing this a lot in healthtech.\n\nThe first call can go really well, but once it moves inside the buyer org, things slow down hard. IT, security, ops, leadership, all pulling in different directions.\n\nFeels like the real challenge is not getting interest, but helping the buyer move internally after that first meeting.\n\nAnyone else seeing this?",
+          "created_utc": "2026-04-18T20:37:36+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "This sub became AWESOME 👌",
+          "score": 16,
+          "num_comments": 39,
+          "author": "Altruistic-Bed7175",
+          "url": "https://reddit.com/r/SaaS/comments/1sozovv/this_sub_became_awesome/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1sozovv/this_sub_became_awesome/",
+          "selftext": "I remember just a couple of days ago posting here was a mess. \n\nEven if you ask for help people will just ignore you. I tried many times to ask for pieces of advice or orientation but no one used to respond at all. Lucky if no one cussed.\n\nToday I made a post and not an hour passed and I got a ton of engagement and people giving me advice on what to do. No bots and no \"i use pulse to find conversation\" type of bullshit.\n\nI wish this sub stays this way and thank you mods for the change. \n\nMuch lo",
+          "created_utc": "2026-04-18T14:51:40+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Guys, I am Designer, post your saas.. I will give rating on basis of design",
+          "score": 10,
+          "num_comments": 141,
+          "author": "Mack_Kine",
+          "url": "https://reddit.com/r/SaaS/comments/1sp09dr/guys_i_am_designer_post_your_saas_i_will_give/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1sp09dr/guys_i_am_designer_post_your_saas_i_will_give/",
+          "selftext": "Just paste your website link 🖇️",
+          "created_utc": "2026-04-18T15:13:12+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "I analyzed 200+ SaaS sites this month. 70% don't have a single blog post. then they wonder why nobody finds them.",
+          "score": 15,
+          "num_comments": 50,
+          "author": "aginext",
+          "url": "https://reddit.com/r/SaaS/comments/1sow3w7/i_analyzed_200_saas_sites_this_month_70_dont_have/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1sow3w7/i_analyzed_200_saas_sites_this_month_70_dont_have/",
+          "selftext": "I run an SEO tool. part of what it does is scan domains and find content gaps.\n\nI've been looking at sites founders submit and it's honestly shocking. I'm not talking about bad SEO. I'm talking about literally zero content. no blog. no articles. nothing. just a landing page and a pricing page floating in the void hoping someone types their exact product name into google.\n\nthat's not a strategy. that's a prayer.\n\nhere's what's wild. the ones that DO have a blog? half of them have 3 posts from 202",
+          "created_utc": "2026-04-18T12:18:12+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Guys, WE ARE FREEEE. No bots anymore",
+          "score": 120,
+          "num_comments": 227,
+          "author": "Altruistic-Bed7175",
+          "url": "https://reddit.com/r/SaaS/comments/1sohzcp/guys_we_are_freeee_no_bots_anymore/",
+          "external_url": "https://www.reddit.com/r/SaaS/comments/1sohzcp/guys_we_are_freeee_no_bots_anymore/",
+          "selftext": "",
+          "created_utc": "2026-04-18T00:02:55+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "r/SaaS implements Captcha against Bots",
+          "score": 110,
+          "num_comments": 146,
+          "author": "Dubinko",
+          "url": "https://reddit.com/r/SaaS/comments/1soexnf/rsaas_implements_captcha_against_bots/",
+          "external_url": "https://i.redd.it/xro45da1otvg1.jpeg",
+          "selftext": "We created a Devvit app that should reduce spam here. Once you are verified verification will stay for **10 hours** before being required again.\n\nIf things go well we will reduce or even remove minimum karma for posts.\n\nThe app is experimental - please report any issues in my DM or modmail\n\nThanks\n\nUPDATES:\n\nAfter some mostly positive feedback, we will change verification window to last 15 days, but failed captchas, low karma, low trust will ask **only some users** to verify more often than 15 d",
+          "created_utc": "2026-04-17T21:56:20+00:00",
+          "link_flair_text": null
+        }
+      ],
+      "SideProject": [
+        {
+          "title": "As the year wraps up: what’s the project you’re most proud of building and why?",
+          "score": 73,
+          "num_comments": 489,
+          "author": "SheriffRat",
+          "url": "https://reddit.com/r/SideProject/comments/1ppr6gh/as_the_year_wraps_up_whats_the_project_youre_most/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1ppr6gh/as_the_year_wraps_up_whats_the_project_youre_most/",
+          "selftext": "Like the title says, instead of what you built or how much money it made, I’m curious what project you’re most proud of this year and why.\n\nCould be a client site, a personal project, something that never launched, or something that made £0.\n\nAny lessons learned?\n\nWould love to read a few reflections as the year wraps up.",
+          "created_utc": "2025-12-18T13:45:29+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Share your ***Not-AI*** projects",
+          "score": 652,
+          "num_comments": 1806,
+          "author": "MembershipEuphoric38",
+          "url": "https://reddit.com/r/SideProject/comments/1oaq2kx/share_your_notai_projects/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1oaq2kx/share_your_notai_projects/",
+          "selftext": "I miss seeing original ideas that aren’t just another AI wrapper.\n\nIf you’re building something in 2025 that’s **not AI-related** here’s your space to self-promote.\n\nDrop your project here",
+          "created_utc": "2025-10-19T13:47:14+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "I stopped telling people what I'm building and it actually helped",
+          "score": 17,
+          "num_comments": 15,
+          "author": "Ambitious-Age-5676",
+          "url": "https://reddit.com/r/SideProject/comments/1sp89r4/i_stopped_telling_people_what_im_building_and_it/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1sp89r4/i_stopped_telling_people_what_im_building_and_it/",
+          "selftext": "I used to try explaining my side project to everyone. Friends, family, coworkers, whoever would listen. And every single time I'd get the same look. That polite nod where you can tell they have no idea what you're talking about and they're just waiting for you to stop.\n\n  \nMy mom still thinks I'm \"doing computers.\" My best friend from college genuinely asked me last month if my app was like Instagram. I'm building getcleed, it monitors buying signals so sales teams know when to reach out. Not ex",
+          "created_utc": "2026-04-18T20:19:29+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "The most boring feature request turned into the entire reason my app exists",
+          "score": 38,
+          "num_comments": 20,
+          "author": "LevelDisastrous945",
+          "url": "https://reddit.com/r/SideProject/comments/1soyr3h/the_most_boring_feature_request_turned_into_the/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1soyr3h/the_most_boring_feature_request_turned_into_the/",
+          "selftext": "i built a small voice app on weekends, and pretty quickly users started requesting scheduling (record now and send later).\n\ni kept deprioritizing it because it sounded like the most boring feature imaginable, basically a cron job with extra steps, and i (thought) I had way more interesting stuff on my list.\n\nThen a stranger rewrote my entire product roadmap.\n\ni got a support message from a woman who wanted to record a voice message for her daughter's 18th birthday, her daughter is currently 6 an",
+          "created_utc": "2026-04-18T14:14:13+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "HumansMap: Added Investigate Button to look person information. Now possible to explore organization membership, structure and stock info. Worked a lot on it.",
+          "score": 22,
+          "num_comments": 5,
+          "author": "im4lwaysthinking",
+          "url": "https://reddit.com/r/SideProject/comments/1sp315k/humansmap_added_investigate_button_to_look_person/",
+          "external_url": "https://v.redd.it/ytz5uy5xbzvg1",
+          "selftext": "",
+          "created_utc": "2026-04-18T16:59:38+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Best way to reach target customer in Reddit without mindless spray-posting everywhere.",
+          "score": 9,
+          "num_comments": 12,
+          "author": "Tvpai",
+          "url": "https://reddit.com/r/SideProject/comments/1sp8kf2/best_way_to_reach_target_customer_in_reddit/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1sp8kf2/best_way_to_reach_target_customer_in_reddit/",
+          "selftext": "Hi, I was just wondering since we all just jumble up all kinds of services here for promotion, is there any legit way of targeting the exact user our service will use other than just spray-posting on every subreddit? I am also guilty on this by the way.\n\nI'm curious on your thought about this.",
+          "created_utc": "2026-04-18T20:31:06+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "my side project finally stopped failing silently and its because i swapped out one api",
+          "score": 16,
+          "num_comments": 22,
+          "author": "Difficult_Skin8095",
+          "url": "https://reddit.com/r/SideProject/comments/1sp0fl0/my_side_project_finally_stopped_failing_silently/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1sp0fl0/my_side_project_finally_stopped_failing_silently/",
+          "selftext": "was building a job aggregator as a side thing. crawl like 40 company career pages every night, normalize the data, push it to a db. nothing fancy\n\n\n\nthe scraping was always the part that felt fragile but it was technically working so i left it alone. what i didnt know was it was returning partial html on js heavy pages and i had no idea because nothing was throwing errors. just quietly putting half empty rows in my db\n\n\n\nnoticed it months in when i was looking at the data for something else. cer",
+          "created_utc": "2026-04-18T15:19:38+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Launched my app Feb 1st. 600+ downloads, 10 paying customers. I know it's not much, but it means a lot to me.",
+          "score": 40,
+          "num_comments": 48,
+          "author": "Grouchy-Library-4064",
+          "url": "https://reddit.com/r/SideProject/comments/1sotfdb/launched_my_app_feb_1st_600_downloads_10_paying/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1sotfdb/launched_my_app_feb_1st_600_downloads_10_paying/",
+          "selftext": "I know 10 paying customers isn't something to write home about.\n\nNo viral moment. No big launch.\n\nBut on February 1st, 2026 I launched Deadlinr an iOS app that tracks everything that expires in your life. Passports, food, subscriptions, insurance. The stuff your brain shouldn't have to remember.\n\nFor weeks, nothing happened. Just silence.\n\nBut I kept listening. Every piece of feedback, I fixed it. Every feature people asked for, I built it. I let the users shape what the app became.\n\nThen the do",
+          "created_utc": "2026-04-18T09:55:19+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "I built a free AI tool to help gamers identify any game from screenshots or text description",
+          "score": 10,
+          "num_comments": 17,
+          "author": "Suspicious-Okra7601",
+          "url": "https://reddit.com/r/SideProject/comments/1sp0lcr/i_built_a_free_ai_tool_to_help_gamers_identify/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1sp0lcr/i_built_a_free_ai_tool_to_help_gamers_identify/",
+          "selftext": "Hi everyone,\n\nAs a gamer and a solo developer, I’ve always found it frustrating when I see a cool game screenshot on social media or remember a specific mechanic but can't find the title. To solve this, I built **What Game?** a free utility app designed to help the gaming community identify those mysterious titles instantly.\n\nI wanted to create something more than just a reverse image search;\n\n* **Screenshot Identification:** If you have an image, just upload it. It’s perfect for those random cl",
+          "created_utc": "2026-04-18T15:25:44+00:00",
+          "link_flair_text": null
+        },
+        {
+          "title": "Need help with testing my app.",
+          "score": 3,
+          "num_comments": 3,
+          "author": "extrem-rabbit77",
+          "url": "https://reddit.com/r/SideProject/comments/1spai5y/need_help_with_testing_my_app/",
+          "external_url": "https://www.reddit.com/r/SideProject/comments/1spai5y/need_help_with_testing_my_app/",
+          "selftext": "I need several people who can test on android/ios my app beta. Will be thankful for any proposed help and feedback. ",
+          "created_utc": "2026-04-18T21:49:20+00:00",
+          "link_flair_text": null
+        }
+      ],
+      "indiehackers": [
+        {
+          "title": "📣✅New Human Verification System for our subreddit!",
+          "score": 15,
+          "num_comments": 269,
+          "author": "prakhartiwari0",
+          "url": "https://reddit.com/r/indiehackers/comments/1pk2rzb/new_human_verification_system_for_our_subreddit/",
+          "external_url": "https://v.redd.it/qsmbzw20wl6g1",
+          "selftext": "Hey everyone,\n\nI'm here to tell you about a new human-verification system that we are going to add to our subreddit. This will help us differentiate between bots and real people. You know how annoying these AI bots are right now? This is being done to fight spam and make your time in this community worth it.\n\n# So, how are we doing this?\n\nWe’re collaborating with the former CTO of Reddit (u/mart2d2) to beta test a product he is building called [VerifyYou](https://verifyyou.com/), which eliminate",
+          "created_utc": "2025-12-11T17:03:37+00:00",
+          "link_flair_text": "Announcements"
+        },
+        {
+          "title": "NEW RULES for the IndieHackers subreddit. - Getting the quality back.",
+          "score": 103,
+          "num_comments": 66,
+          "author": "Numerous_Branch5893",
+          "url": "https://reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+          "selftext": "Howdy.\n\nWe had some internal talks, and after looking at the current state of subreddits in the software and SaaS space, we decided to implement an automoderator that will catch bad actors and either remove their posts or put them on a cooldown.\n\nWe care about this subreddit and the progress that has been made here. Sadly, the moment any community introduces benefits or visibility, it attracts people who want to game the system. We want to stay ahead of that.\n\nWe would like you to suggest what t",
+          "created_utc": "2025-12-10T14:35:35+00:00",
+          "link_flair_text": "Announcements"
+        },
+        {
+          "title": "Saved $1K+ this quarter with 3 simple churn emails",
+          "score": 31,
+          "num_comments": 87,
+          "author": "Febin_ai",
+          "url": "https://reddit.com/r/indiehackers/comments/1snxo82/saved_1k_this_quarter_with_3_simple_churn_emails/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1snxo82/saved_1k_this_quarter_with_3_simple_churn_emails/",
+          "selftext": "No fancy automation. No aggressive win-back campaigns.\n\nJust 3 very simple emails that helped me recover a bit over $1K this quarter from users who were about to churn or already gone.\n\nThese are the exact messages I sent:\n\n1. For users who went quiet (around day 8 - 10 of inactivity)\n\n\"Hey \\[name\\], noticed you’ve been a bit quiet lately. Everything okay? Happy to help if anything felt confusing or broken.\"\n\n2. For failed payments\n\n\"Hey \\[name\\], looks like your last payment didn’t go through, ",
+          "created_utc": "2026-04-17T11:00:35+00:00",
+          "link_flair_text": "Sharing story/journey/experience"
+        },
+        {
+          "title": "Friday Share Fever 🕺 Let’s share your project!",
+          "score": 31,
+          "num_comments": 159,
+          "author": "diodo-e",
+          "url": "https://reddit.com/r/indiehackers/comments/1snw700/friday_share_fever_lets_share_your_project/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1snw700/friday_share_fever_lets_share_your_project/",
+          "selftext": "Mine is Beatable, to help you validate your project\n\n[https://beatable.co/startup-validation](https://beatable.co/startup-validation)\n\nWhat about you?",
+          "created_utc": "2026-04-17T09:40:12+00:00",
+          "link_flair_text": "Sharing story/journey/experience"
+        },
+        {
+          "title": "How do I find out why people visited my website are not signing up?",
+          "score": 30,
+          "num_comments": 90,
+          "author": "kelvinyinnyxian",
+          "url": "https://reddit.com/r/indiehackers/comments/1smtafn/how_do_i_find_out_why_people_visited_my_website/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1smtafn/how_do_i_find_out_why_people_visited_my_website/",
+          "selftext": "Hey guys, is there a way for me to find out why are people not signing up after they landed on the website?",
+          "created_utc": "2026-04-16T04:30:02+00:00",
+          "link_flair_text": "General Question"
+        },
+        {
+          "title": "i hate managing twitter, linkedin, and a blog while coding. so i built an over-engineered voice memo app to do it for me.",
+          "score": 23,
+          "num_comments": 80,
+          "author": "algorrr",
+          "url": "https://reddit.com/r/indiehackers/comments/1sm23ml/i_hate_managing_twitter_linkedin_and_a_blog_while/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1sm23ml/i_hate_managing_twitter_linkedin_and_a_blog_while/",
+          "selftext": "honestly, context-switching between writing code and writing linkedin posts was killing my momentum. i'd have a decent idea while walking to get coffee, forget it by the time i sat down, and end up posting nothing.\n\nso i spent the last few months building a native iOS app to fix my own workflow. i can just ramble into my apple watch or phone (it handles live transcription in about 12 languages), and the 'ai second brain' chops that single voice note into 4 different tweet styles, a subreddit-spe",
+          "created_utc": "2026-04-15T10:28:07+00:00",
+          "link_flair_text": "Self Promotion"
+        },
+        {
+          "title": "I am a solo entrepreneur , learnt one new thing . What I found changed how I look at websites . Want to share with all indiehackers.",
+          "score": 43,
+          "num_comments": 85,
+          "author": "Academic_Flamingo302",
+          "url": "https://reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/",
+          "selftext": "so this is a 6-7 month old story that I kept to myself because honestly it felt too niche to share.  \nI do read along building my own stuff. the usual loop. find client, write code, deliver, get paid, chill,read things, repeat. the reading part is where this started.I came across an article on something called bot psychology. not the usual AI productivity content. actual research on how AI agents make decisions when evaluating products. I almost skipped it. read it anyway at like midnight betwee",
+          "created_utc": "2026-04-14T12:57:04+00:00",
+          "link_flair_text": "Knowledge post"
+        },
+        {
+          "title": "170+ things that founders of other startups are willing to do for your startup so that it takes off!",
+          "score": 24,
+          "num_comments": 65,
+          "author": "TooOldForShaadi",
+          "url": "https://reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/",
+          "selftext": "* Hey its me again\n* Did not want to spam the sub every week with my posts so took a break\n* I haven't stopped collecting services from other founders btw\n* Every week the list keeps going up\n* did you see the guys this week that are offering AI demos for your Saas? and leads and SEO consulting all without charing a penny?\n\nhttps://preview.redd.it/96xfi4skg5vg1.png?width=1598&amp;format=png&amp;auto=webp&amp;s=3f752e2a08794cb65ab7c5a1fe2fdde7b67de789\n\n# [Full list of services updated every week]",
+          "created_utc": "2026-04-14T12:29:29+00:00",
+          "link_flair_text": "Knowledge post"
+        },
+        {
+          "title": "First month build saas, need your advices to get revenue",
+          "score": 34,
+          "num_comments": 84,
+          "author": "RawrCunha",
+          "url": "https://reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/",
+          "selftext": "This is my first month building trunktransfer, alternative to wetransfer.\n\nIn my previous projects, i build many features the sell with wroing direction. sometimes after get user these feature i built need to remove.\n\nNow i come with different approach. i build only one feature. Sending large files.\n\nIt took only 2 weeks to build  then last 2 week i'm tried to get user to get feedback.\n\nTo get user feedback, i start with friends. initially i contact my friend which photographer, and creative des",
+          "created_utc": "2026-04-14T04:02:51+00:00",
+          "link_flair_text": "General Question"
+        },
+        {
+          "title": "I’m building my 6th SaaS after building 5 over the past 3 years. Here’s what I do differently now.",
+          "score": 28,
+          "num_comments": 80,
+          "author": "Jonathan_Geiger",
+          "url": "https://reddit.com/r/indiehackers/comments/1skh6rz/im_building_my_6th_saas_after_building_5_over_the/",
+          "external_url": "https://www.reddit.com/r/indiehackers/comments/1skh6rz/im_building_my_6th_saas_after_building_5_over_the/",
+          "selftext": "\nHey everyone,\n\nI’ve been building SaaS products for ~3 years now, all while working full-time as a developer.\n\nI’ve built 5 products so far. Some failed, some made money, some got acquired.\n\nNow I’m working on my 6th one, and the way I approach things today is completely different from when I started.\n\nFirst, quick context\nSold LectureKit for ~$7K (0 paying users)\nSold CaptureKit for $15K (~$127 MRR at the time)\nBuilt SocialKit to ~$3K/month (MRR + one-time)\nhttps://trustmrr.com/startup/socialk",
+          "created_utc": "2026-04-13T17:09:56+00:00",
+          "link_flair_text": "Sharing story/journey/experience"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total_items": 116
+  }
+}
